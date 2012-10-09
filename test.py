@@ -30,7 +30,7 @@ f.closed
 	Keep it commented if you want to use it as test. Uncomment the block above this comment.
 """
 
-"""
+
 while True:
 	i += 100
 	print i
@@ -45,4 +45,3 @@ while True:
 	#f.close()
 	time.sleep(5)
 
-"""

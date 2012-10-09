@@ -21,7 +21,7 @@ io.sockets.on('connection', function(socket){
 	fs.watch('response.json', function(curr, prev){
 		fs.readFile('response.json', 'utf8', function(err, data){
 			if(err) throw err;
-			console.log(data);
+			//console.log(data);
 			data = JSON.parse(data);
 			data.time = new Date();
 			
