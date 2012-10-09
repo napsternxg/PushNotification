@@ -1,5 +1,7 @@
 Push Notification Server - NodeJs
 ---------------------------------
 
-	* Uses Socket.io
-	* Python for testing
+My first push notification application using NodeJs
+
+ * Uses Socket.io
+ * Python for testing
